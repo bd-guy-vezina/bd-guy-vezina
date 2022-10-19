@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Guy Vézina 
+- I am a Clinical Database Programmer or CDP. 
+- I have been working at BD since 2006.
